@@ -1,9 +1,14 @@
 {
   "chainId": 101,
-  "address": "reKwTV2H3oRj5fQAat7HBZ5M7XRff6R3F9yzUrmKQNm",
+  "address": "9bP93gKuun8mtE3EGzHUCkEqcq1rh1faUGhuGeBvCWAs",
   "symbol": "PURR",
-  "name": "CatShark",
+  "name": "CatShark Coin",
   "decimals": 9,
-  "logoURI": "https://raw.githubusercontent.com/catshark-coin/token-list/main/assets/mainnet/reKwTV2H3oRj5fQAat7HBZ5M7XRff6R3F9yzUrmKQNm/logo.png",
-  "tags": ["community", "meme", "animal"]
+  "logoURI": "https://raw.githubusercontent.com/catshark-coin/CatShark/main/assets/catshark-logo.png",
+  "tags": ["meme", "community"],
+  "extensions": {
+    "website": "https://catsharkcoin.xyz",
+    "twitter": "https://x.com/CatSharkCoin",
+    "telegram": "https://t.me/CatSharkCoin"
+  }
 }
